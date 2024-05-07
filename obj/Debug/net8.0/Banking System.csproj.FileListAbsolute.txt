@@ -1,0 +1,14 @@
+/Users/amolsaxena/Desktop/Banking System/bin/Debug/net8.0/Banking System
+/Users/amolsaxena/Desktop/Banking System/bin/Debug/net8.0/Banking System.deps.json
+/Users/amolsaxena/Desktop/Banking System/bin/Debug/net8.0/Banking System.runtimeconfig.json
+/Users/amolsaxena/Desktop/Banking System/bin/Debug/net8.0/Banking System.dll
+/Users/amolsaxena/Desktop/Banking System/bin/Debug/net8.0/Banking System.pdb
+/Users/amolsaxena/Desktop/Banking System/obj/Debug/net8.0/Banking System.GeneratedMSBuildEditorConfig.editorconfig
+/Users/amolsaxena/Desktop/Banking System/obj/Debug/net8.0/Banking System.AssemblyInfoInputs.cache
+/Users/amolsaxena/Desktop/Banking System/obj/Debug/net8.0/Banking System.AssemblyInfo.cs
+/Users/amolsaxena/Desktop/Banking System/obj/Debug/net8.0/Banking System.csproj.CoreCompileInputs.cache
+/Users/amolsaxena/Desktop/Banking System/obj/Debug/net8.0/Banking System.dll
+/Users/amolsaxena/Desktop/Banking System/obj/Debug/net8.0/refint/Banking System.dll
+/Users/amolsaxena/Desktop/Banking System/obj/Debug/net8.0/Banking System.pdb
+/Users/amolsaxena/Desktop/Banking System/obj/Debug/net8.0/Banking System.genruntimeconfig.cache
+/Users/amolsaxena/Desktop/Banking System/obj/Debug/net8.0/ref/Banking System.dll
